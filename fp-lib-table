@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name semyon)(type KiCad)(uri ${KIPRJMOD}/semyon.pretty)(options "")(descr ""))
+)
